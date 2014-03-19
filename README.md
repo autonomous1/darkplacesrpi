@@ -38,6 +38,8 @@ http://linuxdocs.org/HOWTOs/Quake-HOWTO-2.html#quake-files
 
 unzip -L quake106.zip
 
+sudo apt-get install lhasa
+
 lhasa e resource.1
 
 <h3>Setup user permissions</h3>
