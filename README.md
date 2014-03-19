@@ -50,6 +50,6 @@ sudo usermod -a -G video pi
 
 <h3>Run Darkplaces</h3>
 
-./darkplaces
+darkplaces
 
 (type esc for menu to start game or exit)
