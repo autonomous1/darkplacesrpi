@@ -40,6 +40,10 @@ lhasa e resource.1
 
 git clone https://github.com/autonomous1/darkplacesrpi
 
+<h3>Copy shared libraries to /usr/local/lib</h3>
+
+sudo cp ./lib/* /usr/local/lib
+
 <h3>Setup permissions</h3>
 
 Note: replace pi with your username:
@@ -49,3 +53,5 @@ sudo usermod -a -G video pi
 <h3>Run Darkplaces</h3>
 
 ./darkplaces
+
+(type esc for menu to start game or exit)
