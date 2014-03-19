@@ -18,9 +18,11 @@ cd ~/darkplaces
 
 <h3>Download install package into folder</h3>
 
-wget https://github.com/autonomous1/darkplacesrpi .
+wget https://github.com/autonomous1/darkplacesrpi/archive/master.zip .
 
-<h3>Run installer</h3>
+<h3>Unpack and run installer</h3>
+
+unzip -L master.zip
 
 dpkg -i darkplaces-rpi_1.0-0_all.deb
 
