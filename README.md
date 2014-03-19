@@ -8,7 +8,7 @@ Installation and configuration guide
 
 <h3>Make sure system is up-to-date</h3>
 
-rpi-update
+sudo rpi-update
 
 <h3>Create a folder for darkplaces:</h3>
 
