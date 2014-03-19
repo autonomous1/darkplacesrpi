@@ -24,7 +24,7 @@ wget https://github.com/autonomous1/darkplacesrpi/archive/master.zip .
 
 unzip -L master.zip
 
-dpkg -i darkplaces-rpi_1.0-0_all.deb
+sudo dpkg -i darkplaces-rpi_1.0-0_all.deb
 
 <h3>Download shareware version of Quake game data</h3>
 
