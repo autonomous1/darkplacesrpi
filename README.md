@@ -20,13 +20,13 @@ Installation and configuration guide
 
 **Download install package into folder**
 
-`wget https://github.com/autonomous1/darkplacesrpi/archive/master.zip`
+`wget https://github.com/autonomous1/darkplacesrpi/archive/dprpi_v1.0.zip`
 
 **Unpack and run installer**
 
-`unzip master.zip`
+`unzip dprpi_v1.0.zip`
 
-`mv darkplacesrpi-master/* .`
+`mv darkplacesrpi-dprpi_v1.0/* .`
 
 `sudo dpkg -i darkplaces-rpi_1.0-0_all.deb`
 
