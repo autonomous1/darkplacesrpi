@@ -22,7 +22,9 @@ Installation and configuration guide
 
 <h3>Unpack and run installer</h3>
 
-`unzip -L -d ~/darkplaces master.zip`
+`unzip master.zip`
+
+`mv darkplacesrpi-master/* .`
 
 `sudo dpkg -i darkplaces-rpi_1.0-0_all.deb`
 
@@ -36,7 +38,7 @@ http://linuxdocs.org/HOWTOs/Quake-HOWTO-2.html#quake-files
 
 <h3>Unpack game data</h3>
 
-`unzip -L -d ~/darkplaces quake106.zip`
+`unzip quake106.zip`
 
 `sudo apt-get install lhasa`
 
