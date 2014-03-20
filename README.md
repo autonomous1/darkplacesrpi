@@ -10,6 +10,8 @@ Installation and configuration guide
 
 `sudo rpi-update`
 
+`sudo reboot`
+
 **Create a folder somewhere for darkplaces**
 
 `mkdir ~/darkplaces`
