@@ -28,7 +28,7 @@ Installation and configuration guide
 
 `mv darkplacesrpi-dprpi_v1.0/* .`
 
-`sudo dpkg -i darkplaces-rpi_1.0-0_all.deb`
+`sudo dpkg -i darkplaces-rpi_1.0_all.deb`
 
 **Download shareware version of Quake game data**
 
