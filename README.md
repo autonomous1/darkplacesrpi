@@ -20,15 +20,15 @@ Installation and configuration guide
 
 **Download install package into folder**
 
-`wget https://github.com/autonomous1/darkplacesrpi/archive/dprpi_v1.0.zip`
+`wget https://github.com/autonomous1/darkplacesrpi/archive/dprpi_v1.1.zip`
 
 **Unpack and run installer**
 
-`unzip dprpi_v1.0.zip`
+`unzip dprpi_v1.1.zip`
 
-`mv darkplacesrpi-dprpi_v1.0/* .`
+`mv darkplacesrpi-dprpi_v1.1/* .`
 
-`sudo dpkg -i darkplaces-rpi_1.0_all.deb`
+`sudo dpkg -i darkplaces-rpi.deb`
 
 **Download shareware version of Quake game data**
 
